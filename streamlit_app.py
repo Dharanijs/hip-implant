@@ -36,7 +36,7 @@ st.markdown(html_temp,unsafe_allow_html=True)
 st.subheader('The user is requested to upload the scanned image of their hip implant.')
 #@st.cache(allow_output_mutation=True)
 def load_model():
-            model=tf.keras.models.load_model(r"C:\Users\ADMIN\Desktop\model_2.h5")
+            model=tf.keras.models.load_model(r"model_2.h5")
             return model
 with st.spinner('Model is being loaded..'):
             model=load_model()
