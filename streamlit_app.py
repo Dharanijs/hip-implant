@@ -61,5 +61,5 @@ else:
                     st.warning('The subject under observation appears to be loose.')
                 
                 else:
-                    st.success('The subject under consideration is declared to be correctly fitted.')
+                    st.success('The subject under consideration is correctly fitted.')
 
