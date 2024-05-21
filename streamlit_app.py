@@ -17,7 +17,7 @@ def add_bg_from_url():
          f"""
          <style>
          .stApp {{
-             background-image: url("https://img.freepik.com/free-photo/3d-male-medical-figure-with-spine-highlighted_1048-8342.jpg?t=st=1716314137~exp=1716317737~hmac=15cc85c11a440a0e45be05a1a041c161e11d9bd67c339e0c71ee03fcd68e19a4&w=360");
+             background-image: url("https://img.freepik.com/premium-photo/skeleton-with-lower-leg-leg-showing-lower-bones_916191-265332.jpg?w=1060");
              background-attachment: fixed;
              background-size: cover
          }}
