@@ -17,7 +17,7 @@ def add_bg_from_url():
          f"""
          <style>
          .stApp {{
-             background-image: url("https://img.freepik.com/free-photo/black-mulberry-paper-textured-background_53876-129520.jpg?t=st=1716313664~exp=1716317264~hmac=758f6d27ec7404415d8332159a38354d181a97eeebccfb0179817869878ad9df&w=900");
+             background-image: url("https://img.freepik.com/free-photo/3d-female-medical-figure-with-spine-highlighted-pain_1048-8131.jpg?t=st=1716313932~exp=1716317532~hmac=6b57b6fe4b91f27f06e4c74cb7efa3611dda5894ea414e32f8013494e7205caa&w=740");
              background-attachment: fixed;
              background-size: cover
          }}
