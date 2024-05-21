@@ -27,7 +27,7 @@ def add_bg_from_url():
      )
 add_bg_from_url()
 html_temp = """ 
-  <div style="background-color:pink ;padding:10px">
+  <div style="background-color:black ;padding:10px">
   <h2 style="color:white;text-align:center;">Integrated system for hip implant fixation prediction using deep learning </h2>
   </div>
   """ 
