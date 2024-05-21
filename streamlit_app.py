@@ -33,7 +33,10 @@ html_temp = """
   """ 
 st.markdown(html_temp,unsafe_allow_html=True)
 #st.write('This section of the website comprises of tests related to the diagnosis of diabetes')
-st.subheader('The user is requested to upload the scanned image of their hip implant.')
+
+st.markdown('<h3 style="color: black;">The user is requested to upload the scanned image of their hip implant.</h3>', unsafe_allow_html=True)
+
+#st.subheader('The user is requested to upload the scanned image of their hip implant.')
 #@st.cache(allow_output_mutation=True)
 def load_model():
             model=tf.keras.models.load_model(r"model_2.h5")
